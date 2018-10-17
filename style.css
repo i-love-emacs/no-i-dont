@@ -1,0 +1,10 @@
+#buttons button {
+	width: 100%;
+	height: 3em;
+	font-size: 2em;
+}
+
+#msg {
+	display: none;
+	font-size: 2em;
+}
